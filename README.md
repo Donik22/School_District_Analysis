@@ -26,6 +26,7 @@ No change was noticed on the Total students, Total Budget, and Average Reading S
 Except for The Thomas High School Data, nothing has changed in the school summary data frame. 
 
 [initial school summary](https://github.com/Donik22/School_District_Analysis/blob/main/Resources/THS%20before%20editing.PNG)
+
 [new district_summary](https://github.com/Donik22/School_District_Analysis/blob/main/Resources/THS%20Updated.PNG)
 
 ## How does replace the ninth-grade scores affect the summary?
